@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Joseph-Edgerton.github.io"
+  title: "Joe Edgerton"
   navbar:
     left:
       - text: Home
