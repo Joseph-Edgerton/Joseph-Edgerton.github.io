@@ -8,6 +8,8 @@ categories: [Data]
 
 citation:
   url: https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/
+  
+draft: true
 ---
 
 ## The reason
