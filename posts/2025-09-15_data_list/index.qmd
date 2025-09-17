@@ -1,0 +1,39 @@
+---
+title: "Data term list"
+description: "Data are in every domain, and so they are also described in every domain. What do some of these terms mean, and what are some references that use these terms."
+
+date: 2025-09-15
+
+categories: [Data]
+
+citation:
+  url: https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/
+---
+
+## The reason
+
+It's extremely difficult to know what someone is talking about when they say data. 
+
+You may have an idea in your head with what it means to you, but talk to someone outside your field and they may completely disagree with what your definition is and how you look at something.
+
+This difference in data and data-related words can be frustrating for someone trying to understand what people are doing. At the same time, it's beautiful to see how many different expressions there are.
+
+Whether you see it as an obstacle or just nuance, I wanted to give people a small collection of data terms that can help someone discern what data folk are talking about.
+
+## Practicality
+
+While this is not comprehensive, this is intended to be iterated on and to be developed over a long period of time. As the data, and data management world, continue to develop, more descriptive words will be used.
+
+If you don't see a word listed and would like to make suggestions please submit an issue/pull request.
+
+## Definition list
+
+
+
+
+
+
+
+
+
+

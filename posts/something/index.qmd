@@ -1,0 +1,57 @@
+---
+title: "Leaving social media"
+description: "After years of changes to privacy, ads, and algorithms, I've decided to leave some of my social media accounts behind and embrace other ones."
+
+date: 2025-08-11
+
+categories: [Other]
+
+citation:
+  url: https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/
+---
+
+## A pause
+
+I open an app I've had for years and it seems completely different from what I remember. I can't believe something that brought me joy for many years has degraded into something that I barely want to touch anymore.
+
+\[snap images\]
+
+Just junk after junk feature and unneeded distractions.
+
+## The decision
+
+It's over. I've had it with these apps and their insistent notifications, lack of transparency, and addicting UI features. I want to connect with people on my own terms, through people I genuinely want to interact with. I don't think that is a controversial idea.
+
+## Detoxing before destroying
+
+Before I actually deleted my accounts, I just wanted to take a break. I didn't touch Facebook or Snapchat. I already had notifications turned off, which was really nice, so that helped me gradually say no.
+
+## Some utility
+
+I admit, Facebook probably had the most utility and I'll be missing some things with it. Mostly, I'll miss the neighborhood interactions with Buy-Nothings. As a young adult moving around, this was a great way to get some essentials and not have to spend money other than gas to pick up an item.
+
+But now, after a few years with that, I have most of the stuff I need and I don't really have much to give away so the need for this group has run it's course. If you have stuff to get rid of, or in turn need stuff, it's great. However, being in the middle just makes it another scroll-haven that's hard to turn away from.
+
+## 6, 7, 20 degrees of separation
+
+Also, I hardly use it at all to keep in touch with people. I have multiple connections with my close friends and frankly I don't really care what other people are doing. It's been a long process to stop caring about what others are doing—something Instagram really screwed me up with in high school.
+
+I just don't think it's healthy. Maybe I'm not a super-social person but I don't need a feed of people's private lives. I'm resolved to just worry about my life at the moment and try to establish practices and things that help me, not hinder.
+
+## The plan
+
+Now I want to go through the steps to gather your personal data from these different apps, talk about my experience, and what you can potentially expect.
+
+## Snapchat steps
+
+It was pretty easy, just a little frustrating and disappointing.
+
+First, I initiated the data export process in my phone app. I went to my account settings, navigated to my data, and then checked basically every box possible for content (including both HTML and JSON formats for my data); I also selected my date range as "all time." I wanted to get everything out of Snapchat that was possible, even with redundant formats.
+
+After 20 minutes I recieved a notifcation that my data was ready to download. This was a fairly quick response. The first annoyance then came from believing I had to use my Chrome browser because Snapchat for Web only supports Chromium browsers ("Snapchat for Web only supports the latest version of Chrome, Edge, and Safari on computers"). In reality, I could just access my Snap account on their account.snapchat.com site.
+
+After getting the email I logged into my account through my laptop, downloaded the zip file, and I spent the next hour reviewing a bunch of old files. After confirming that my files were there and organized them a bit I was ready to delete my account.
+
+I went t
+
+## Facebook steps

@@ -5,15 +5,26 @@ website:
   title: "Joseph-Edgerton.github.io"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Home
+        href: index.qmd
+      - text: Resources
+        href: resources.qmd
+      - text: Blog
+        href: posts.qmd
+      - icon: mastodon
+        href: https://glammr.us/@JosephEdgerton
+      - icon: github
+        href: https://github.com/Joseph-Edgerton
+      
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      - cosmo
+      - my_theme_v1.scss
     css: styles.css
     toc: true
+    respect-user-color-scheme: true
 
 editor: visual
 

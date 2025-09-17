@@ -1,0 +1,22 @@
+---
+title: "Resources"
+---
+
+I would not be here today if it wasn't for the tireless and under-appreciated work of others.
+
+Here are a list of resources I've either read or want to promote here for others to gather inspiration from.
+
+### Joe's list
+
+#### R resources
+
+-   Something
+
+#### People to follow
+
+-   Someone
+
+#### Useful Websites
+
+-   [Data is Plural](https://www.data-is-plural.com/)
+    -   Bunch of datasets

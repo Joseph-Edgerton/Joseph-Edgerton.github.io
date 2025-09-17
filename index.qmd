@@ -1,11 +1,19 @@
 ---
-title: "Joseph-Edgerton.github.io"
+title: "Home"
 ---
 
-This is a Quarto website.
+::::: grid
+::: {.g-col-12 .g-col-md-6}
+![](headshot.jpg){fig-alt="Headshot of Joe with a blue and grey collared shirt, smiling with a reddish beard, and long, brown hair down to his shoulders."}
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.g-col-12 .g-col-md-6}
+# Hi, I'm Joe Edgerton.
 
-```{r}
-1 + 1
-```
+I'm a Research Data Management Librarian. I'm a self-taught R person and I love learning about data. Not just analytics, but the curation, storage, and sharing of data. How it's referred to, how it's communicated, and how it impacts people.
+
+This site serves as my website for networking and a home for my blog; I want to develop my skills as an information professional and I want to chronicle that journey for others to see.
+
+I'm most active on [Mastodon](https://glammr.us/@JosephEdgerton) where I follow a lot of GLAM, open source, privacy, and digital humanities folks.
+:::
+:::::
