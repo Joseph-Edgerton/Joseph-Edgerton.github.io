@@ -14,7 +14,7 @@ draft: true
 
 ## The reason
 
-It's extremely difficult to know what someone is talking about when they say data. 
+It's extremely difficult to know what someone is talking about when they say data.
 
 You may have an idea in your head with what it means to you, but talk to someone outside your field and they may completely disagree with what your definition is and how you look at something.
 
@@ -29,13 +29,3 @@ While this is not comprehensive, this is intended to be iterated on and to be de
 If you don't see a word listed and would like to make suggestions please submit an issue/pull request.
 
 ## Definition list
-
-
-
-
-
-
-
-
-
-
